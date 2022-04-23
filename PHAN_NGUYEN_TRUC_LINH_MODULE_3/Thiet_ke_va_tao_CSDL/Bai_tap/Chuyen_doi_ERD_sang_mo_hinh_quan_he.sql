@@ -1,6 +1,6 @@
-drop database if exists tessts;
-create database tessts;
-use tessts;  
+drop database if exists nhamay;
+create database nhamay;
+use nhamay;
 
 
 drop table if exists `nhacc`;
